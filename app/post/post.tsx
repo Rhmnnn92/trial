@@ -1,5 +1,5 @@
 const Post = () => {
-    return <div>post</div>;
+    return <div>postingan ini adalah latihan</div>
 }
 
-export default Posts
+export default Post
